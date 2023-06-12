@@ -1,4 +1,4 @@
-# IO Devices and Drivers in Operating Systems
+# I/O Devices and Drivers in Operating Systems
 
 In an operating system, input/output (I/O) devices play a crucial role in facilitating communication between the computer system and the outside world. IO devices are hardware components that enable the transfer of data to and from the computer. To manage the interaction with these devices, operating systems employ device drivers, which are software components that act as intermediaries between the devices and the operating system. This article provides a comprehensive explanation of IO devices, device drivers, and I/O control techniques commonly used in operating systems.
 
