@@ -1,16 +1,16 @@
 # Pengantar Sistem Operasi
 
-### [Lesson 1: What is an Operating System?](./1th-What-is-an-Operating-System.md)
+### [Lesson 1: What is an Operating System?](./01th-What-is-an-Operating-System.md)
 - Definition of an Operating System (OS)
 - Functions and objectives of an OS
 - Examples of popular operating systems
 
-### [Lesson 2: Evolution of Operating Systems](./2nd-Evolution-of-Operating-Systems.md)
+### [Lesson 2: Evolution of Operating Systems](./02nd-Evolution-of-Operating-Systems.md)
 - Brief history of operating systems
 - Key milestones in OS development
 - Main types of operating systems (batch, time-sharing, multi-tasking, etc.)
 
-### [Lesson 3: Components of an Operating System](./3rd-Components-of-an-Operating-System.md)
+### [Lesson 3: Components of an Operating System](./03rd-Components-of-an-Operating-System.md)
 - Kernel and its functions
 - Process management
 - Memory management
@@ -18,34 +18,34 @@
 
 ## Process Management
 
-### [Lesson 4: Processes and Threads](./4th-Processes-and-Threads.md)
+### [Lesson 4: Processes and Threads](./04th-Processes-and-Threads.md)
 - Introduction to processes and threads
 - Process states and life cycle
 - Multi-threading and advantages
 
-### [Lesson 5: Process Scheduling](./5th-Process-Scheduling.md)
+### [Lesson 5: Process Scheduling](./05th-Process-Scheduling.md)
 - Basics of process scheduling
 - Different scheduling algorithms (FCFS, Round Robin, Shortest Job First, etc.)
 - Evaluation and comparison of scheduling algorithms
 
-### [Lesson 6: Interprocess Communication](./6th-Interprocess-Communication.md)
+### [Lesson 6: Interprocess Communication](./06th-Interprocess-Communication.md)
 - Methods of interprocess communication (shared memory, message passing, pipes, etc.)
 - Synchronization mechanisms (semaphores, mutexes, condition variables)
 - Deadlock and its prevention techniques
 
 ## Memory Management
 
-### [Lesson 7: Memory Hierarchy and Address Spaces](./7th-Memory-Hierarchy-and-Address-Spaces.md)
+### [Lesson 7: Memory Hierarchy and Address Spaces](./07th-Memory-Hierarchy-and-Address-Spaces.md)
 - Overview of memory hierarchy (registers, cache, main memory, secondary storage)
 - Virtual memory and address spaces
 - Memory allocation and deallocation techniques
 
-### [Lesson 8: Paging and Segmentation](./8th-Paging-and-Segmentation.md)
+### [Lesson 8: Paging and Segmentation](./08th-Paging-and-Segmentation.md)
 - Paging and its advantages
 - Page tables and translation lookaside buffers (TLBs)
 - Segmentation and its benefits
 
-### [Lesson 9: Memory Allocation and Management](./9th-Memory-Allocation-and-Management.md)
+### [Lesson 9: Memory Allocation and Management](./09th-Memory-Allocation-and-Management.md)
 - Memory allocation algorithms (first-fit, best-fit, worst-fit)
 - Fragmentation and compaction
 - Swapping and demand paging
