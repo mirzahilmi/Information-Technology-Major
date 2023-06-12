@@ -1,6 +1,4 @@
-# Operating System Course
-
-## Introduction to Operating Systems
+# Pengantar Sistem Operasi
 
 ### [Lesson 1: What is an Operating System?](./1th-What-is-an-Operating-System.md)
 - Definition of an Operating System (OS)
