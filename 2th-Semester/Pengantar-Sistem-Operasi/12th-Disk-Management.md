@@ -45,6 +45,4 @@ Operating systems provide various disk management tools to perform these disk-re
 
 ## Conclusion
 
-Disk management plays a vital role in operating systems by facilitating efficient utilization and organization of storage resources. By understanding disk partitioning, formatting, mirroring, striping, spanning, and defragmentation, users and system administrators can effectively manage disks and volumes, ensuring optimal performance, data integrity, and availability. Disk management tools provided by operating systems simplify these operations and allow users to interact with
-
- disks and partitions conveniently.
+Disk management plays a vital role in operating systems by facilitating efficient utilization and organization of storage resources. By understanding disk partitioning, formatting, mirroring, striping, spanning, and defragmentation, users and system administrators can effectively manage disks and volumes, ensuring optimal performance, data integrity, and availability. Disk management tools provided by operating systems simplify these operations and allow users to interact with disks and partitions conveniently.
