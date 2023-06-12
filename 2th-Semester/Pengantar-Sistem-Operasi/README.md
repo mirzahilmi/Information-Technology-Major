@@ -2,17 +2,17 @@
 
 ## Introduction to Operating Systems
 
-### Lesson 1: What is an Operating System?
+### [Lesson 1: What is an Operating System?](./1th-What-is-an-Operating-System.md)
 - Definition of an Operating System (OS)
 - Functions and objectives of an OS
 - Examples of popular operating systems
 
-### Lesson 2: Evolution of Operating Systems
+### [Lesson 2: Evolution of Operating Systems](./2nd-Evolution-of-Operating-Systems.md)
 - Brief history of operating systems
 - Key milestones in OS development
 - Main types of operating systems (batch, time-sharing, multi-tasking, etc.)
 
-### Lesson 3: Components of an Operating System
+### [Lesson 3: Components of an Operating System](./3rd-Components-of-an-Operating-System.md)
 - Kernel and its functions
 - Process management
 - Memory management
