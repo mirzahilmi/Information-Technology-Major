@@ -3,6 +3,8 @@
 Q: Question or an Image of the question<br>
 A: The Answer
 
+> Do me a favor by following my GitHub and star this repository obviously 😒
+
 ---
 
 ![picture 2](https://i.imgur.com/agzqxrG.png)<br>
@@ -29,3 +31,18 @@ Logical Address atau Virtual Address adalah alamat yang dibuat oleh CPU selama r
 
 ![picture 11](https://i.imgur.com/A0cYQJD.png)  
 Ketika terdapat interupt yang terjadi, pada umumnya interupt bersifat urgent oleh karena itu hardware akan langsung ***Mengeksekusi interupt program***
+
+![picture 12](https://i.imgur.com/moUBygw.png)  
+Direct Access allow program to ***read/write secara random sesuai dengan record***. Direct Access Method is based on a disk model of a file, since disk allow random access to any file block
+
+![picture 13](https://i.imgur.com/TdPLZV7.png)  
+DMA (Direct Memory Access) tidak memerlukan CPU dalam mengeksekusikan proses thus it reduce CPU stress. After DMA finish it'll interrupt to CPU without signaling finish atau ***memberikan sinyal selesai***
+
+![picture 14](https://i.imgur.com/hsCSs5Y.png)  
+Its FIFO, First In First Out. Get it? so the answer is ***Proses pertama yang masuk akan dikerjakan***
+
+![picture 15](https://i.imgur.com/TyfL2Tt.png)  
+A processes generally also includes the process stack that is temporary data (function parameters, return addresses, and local variables), and a data section, which contain global variables. The answer should be ***Address space dan Global Variables***, but im not quite sure.
+
+![picture 16](https://i.imgur.com/4rvvnzX.png)  
+Sebuah process dalam sistem UNIX memiliki tanda pengenal yang di assign otomatis everytime a process created. Identitas ini adalah ***Process Identifier*** or an ID obviously.
