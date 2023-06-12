@@ -17,4 +17,11 @@ Round robin merupakan algoritma scheduling yang membolehkan adanya interrupt sel
 ![picture 7](https://i.imgur.com/f4aCvPA.png) <br>  
 SJF (Shortest Job First) adalah metode scheduling yang memprioritaskan proses dengan burst time yang relatif sedikit / cepat. SJF sudah jarang digunakan / diimplementasikan karena akan ada sewaktu-waktu ***Prosess yang memiliki burst time lama tidak dapat dikerjakan jika proses dengan burst time lebih kecil datang terus menerus***
 
+![picture 8](https://i.imgur.com/2kRhAX1.png) <br>
+Resource Allocation Graph adalah strategi yang digunakan untuk mengalokasikan sumber daya sistem kepada proses yang membutuhkannya. Resource Allocation dapat mengurangi kemungkinan terjadinya deadlock, especially when ***beberapa proses meminta anggota dari sumber daya yang sama***
+
+![picture 9](https://i.imgur.com/D5KlgdU.png)  
+***Safery Algorithm*** digunakan untuk melakukan pengecekan apakah suatu system is in a safe state.
+> Mau tau maksudnya algoritma ini ngapain behind the scene? fine. So here, Let Work and Finish be vectors of length m and n, respectively. Initialize Work = Available and Finish[i] = false for i = 0, 1, 2, ..., n - 1
+
 
