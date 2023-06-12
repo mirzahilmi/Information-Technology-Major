@@ -20,8 +20,12 @@ SJF (Shortest Job First) adalah metode scheduling yang memprioritaskan proses de
 ![picture 8](https://i.imgur.com/2kRhAX1.png) <br>
 Resource Allocation Graph adalah strategi yang digunakan untuk mengalokasikan sumber daya sistem kepada proses yang membutuhkannya. Resource Allocation dapat mengurangi kemungkinan terjadinya deadlock, especially when ***beberapa proses meminta anggota dari sumber daya yang sama***
 
-![picture 9](https://i.imgur.com/D5KlgdU.png)  
+![picture 9](https://i.imgur.com/D5KlgdU.png)  <br>
 ***Safery Algorithm*** digunakan untuk melakukan pengecekan apakah suatu system is in a safe state.
 > Mau tau maksudnya algoritma ini ngapain behind the scene? fine. So here, Let Work and Finish be vectors of length m and n, respectively. Initialize Work = Available and Finish[i] = false for i = 0, 1, 2, ..., n - 1
 
+![picture 10](https://i.imgur.com/BjA1Azp.png)  
+Logical Address atau Virtual Address adalah alamat yang dibuat oleh CPU selama runtime. Tujuan Logical Address adalah sebagai referensi untuk mengakses the physical address atau ***memetakan satu jenis alamat ke jenis alamat lain***
 
+![picture 11](https://i.imgur.com/A0cYQJD.png)  
+Ketika terdapat interupt yang terjadi, pada umumnya interupt bersifat urgent oleh karena itu hardware akan langsung ***Mengeksekusi interupt program***
