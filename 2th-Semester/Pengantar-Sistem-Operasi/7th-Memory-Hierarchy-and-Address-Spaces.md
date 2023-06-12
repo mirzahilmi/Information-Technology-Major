@@ -1,4 +1,4 @@
-# Memory Hierarchy and Address Spaces in Operating Systems
+# Memory Hierarchy and Address Spaces
 
 ## Memory Hierarchy
 
