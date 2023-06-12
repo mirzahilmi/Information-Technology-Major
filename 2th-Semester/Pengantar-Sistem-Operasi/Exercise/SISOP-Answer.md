@@ -46,3 +46,12 @@ A processes generally also includes the process stack that is temporary data (fu
 
 ![picture 16](https://i.imgur.com/4rvvnzX.png)  
 Sebuah process dalam sistem UNIX memiliki tanda pengenal yang di assign otomatis everytime a process created. Identitas ini adalah ***Process Identifier*** or an ID obviously.
+
+![picture 17](https://i.imgur.com/elUdblT.png)  
+The answer is ***ls***. Stand for List, and it's a command you usually execute in shell, bash, cmd, or even powershell buat nampilin semua file / folder yang ada didalam suatu directory. *touch* is for updating a file last_edited, *dir* do the same as ls but its native on windows, *mkdir* for create a new folder (it's stand for make directory, now you get it huh), and last *lsdir*, this isn't a real command, just a trap answer 
+
+![picture 18](https://i.imgur.com/rO1lBXg.png)  
+One way Circular Wait to ensure that this condition never holds is to impose a total ordering of all resource types and to require that each process requests resources in an increasing order of enumeration. So then the answer should be ***Memberlakukan pemesanan terlebih dahulu untuk total jenis resource yang dibutuhkan dan setiap proses meminta resource sesuai urutan nomor***
+
+![picture 19](https://i.imgur.com/3SwxK6h.png)  
+
