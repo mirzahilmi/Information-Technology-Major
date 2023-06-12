@@ -37,7 +37,7 @@
 
 ## Memory Management
 
-### [Lesson 7: Memory Hierarchy and Address Spaces](7th-Memory-Hierarchy-and-Address-Spaces.md)
+### [Lesson 7: Memory Hierarchy and Address Spaces](./7th-Memory-Hierarchy-and-Address-Spaces.md)
 - Overview of memory hierarchy (registers, cache, main memory, secondary storage)
 - Virtual memory and address spaces
 - Memory allocation and deallocation techniques
