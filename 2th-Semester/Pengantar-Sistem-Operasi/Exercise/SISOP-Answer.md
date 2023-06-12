@@ -1,0 +1,3 @@
+1. Akses Filesystem secara direct access biasanya digunakan pada storage <span style="color: yellow">disk</span> yang cepat.Disk ini digunakan saat proses swapping standar which involves moving processes between memory and a backing store (disk).
+2. Round robin merupakan algoritma scheduling yang membolehkan adanya interrupt selama berjalannya processes (Preemptive) untuk memungkinkan alokasi waktu untuk setiap proses.
+3. 
