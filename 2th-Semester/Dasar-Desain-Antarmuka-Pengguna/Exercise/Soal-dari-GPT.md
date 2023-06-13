@@ -1,11 +1,11 @@
 1. Apa kepanjangan dari HTML?
-   - ***a. Hyper Text Markup Language***
+   - ***a. Hyper Text Markup Language*** ✔️
    - b. Hyperlinks and Text Markup Language
    - c. Home Tool Markup Language
    - d. Hyper Textual Markup Language
 
 2. CSS digunakan untuk apa dalam pengembangan web?
-   - ***a. Mengatur tampilan dan gaya halaman web***
+   - ***a. Mengatur tampilan dan gaya halaman web*** ✔️
    - b. Membuat fungsi interaktif pada halaman web
    - c. Mengelola database di halaman web
    - d. Menjalankan logika pemrograman di halaman web
@@ -13,12 +13,12 @@
 3. Apa kegunaan dari JavaScript (JS) dalam pengembangan web?
    - a. Membuat tampilan halaman web yang menarik
    - b. Mengatur struktur dan isi halaman web
-   - c. Membuat halaman web menjadi responsif dan interaktif
+   - ***c. Membuat halaman web menjadi responsif dan interaktif*** ✔️
    - d. Mengelola server dan database di halaman web
 
 4. Apa fungsi dari tag `<head>` dalam dokumen HTML?
    - a. Menampilkan konten utama halaman web
-   - b. Menyertakan script JavaScript eksternal
+   - ***b. Menyertakan script JavaScript eksternal*** ✔️
    - c. Mengatur tampilan dan gaya halaman web
    - d. Menyematkan gambar dan video ke halaman web
 
