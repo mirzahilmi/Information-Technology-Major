@@ -54,4 +54,74 @@ The answer is ***ls***. Stand for List, and it's a command you usually execute i
 One way Circular Wait to ensure that this condition never holds is to impose a total ordering of all resource types and to require that each process requests resources in an increasing order of enumeration. So then the answer should be ***Memberlakukan pemesanan terlebih dahulu untuk total jenis resource yang dibutuhkan dan setiap proses meminta resource sesuai urutan nomor***
 
 ![picture 19](https://i.imgur.com/3SwxK6h.png)  
+Deadlock adalah kondisi dimana sebuah process terpaksa menunggu sebuah prosess lain karena sumber daya yang ingin dipakai sedang digunakan oleh proses lain. Setelah proses tersebut selesai, proses yang sebelumnya tertahan akan langsung memasuki fase ***no preemption***.
+
+![picture 20](https://i.imgur.com/cqImwao.png)  
+Setelah proses **Blocked State** selesai, proses akan memasuki fase ***Ready State***.
+
+![picture 22](https://i.imgur.com/rA2ThIX.png)  
+Jawabannya adalah ***drwxr-----***. Let's break it down, totalnya ada 10 slot pada untuk keterangan permission suatu file/directory di unix. d berarti directory, r berarti akses read, w untuk write, dan x untuk execute. Permission read memiliki nilai sebesar 4, write 2, dan execute 1. Oleh karena itu pattern permission yang cocok untuk 7 4 0 adalah ***drwxr-----***
+
+![picture 24](https://i.imgur.com/WjtSPWC.png)
+Blok 2 3 4 5 8 9 10 dengan sisa bloknya teralokasikan, maka untuk menentukan freespace bitmap cukup dengan menandai angka diluar blok dengan angka 0 yang berarti false. Jawabannya adalah ***0111100111***
+
+![picture 26](https://i.imgur.com/bQ9BpYy.png)
+The actual algorithm of Preemptive Priority Scheduling itu kaya gini
+1. Step-1: Select the first process whose arrival time will be 0, we need to select that process because that process is only executing at time t=0.
+2. Step-2: Check the priority of the next available process. Here we need to check for 3 conditions.
+- if priority(current_process) > priority(prior_process) :- then execute the current process.
+- if priority(current_process) < priority(prior_process) :- then execute the prior process.
+- if priority(current_process) = priority(prior_process) :- then execute the process which arrives first i.e., arrival time should be first.
+
+3. Step-3: Repeat Step-2 until it reaches the final process.
+4. Step-4: When it reaches the final process, choose the process which is having the highest priority & execute it. Repeat the same step until all processes complete their execution.
+
+Dari algoritma diatas, kita bisa mensimulasikan algoritma Preemptive Priority Scheduling diatas kertas, hasilnya adalah ***P1 -> P2 -> P1 -> P5 -> P1 -> P3 -> P4 -> ...dst***
+![picture 27](https://i.imgur.com/WwQhdwW.png)  
+![picture 28](https://i.imgur.com/GCjj9BI.png)  
+![picture 29](https://i.imgur.com/rKQhytO.png)  
+![picture 30](https://i.imgur.com/j6qoK3Y.png)  
+![picture 31](https://i.imgur.com/MbEpEVt.png)  
+![picture 32](https://i.imgur.com/Yt5g7Vl.png)  
+![picture 33](https://i.imgur.com/QhXlrT3.png)  
+![picture 34](https://i.imgur.com/NkHSXkw.png)  
+![picture 35](https://i.imgur.com/bcpTPXv.png)  
+![picture 36](https://i.imgur.com/gEOwkpc.png)  
+![picture 37](https://i.imgur.com/LjYtV5D.png)  
+![picture 38](https://i.imgur.com/EL4WYQG.png)  
+![picture 39](https://i.imgur.com/WLbI0wU.png)  
+![picture 40](https://i.imgur.com/Wq5t9gA.png)  
+![picture 41](https://i.imgur.com/ATjixin.png)  
+![picture 42](https://i.imgur.com/clGbWMC.png)  
+![picture 43](https://i.imgur.com/tvHhX2O.png)  
+![picture 44](https://i.imgur.com/vjVKR6j.png)  
+![picture 45](https://i.imgur.com/9psNOoC.png)  
+![picture 46](https://i.imgur.com/jdcczAJ.png)  
+![picture 47](https://i.imgur.com/csgkeRj.png)  
+![picture 48](https://i.imgur.com/XCx3Enc.png)  
+![picture 49](https://i.imgur.com/s5GsJiF.png)  
+Parameter dari kode tersebut ditunjukkan pada fungsi malloc() yang digunakan itu mengalokasikan memori secara dinamis. Memori ini nantinya disimpan pada heap. Jadi jawaban yang tepat adalah ***(int \*)malloc(sizeof(int)\*5), heap***
+![picture 50](https://i.imgur.com/ywD1LUO.png)  
+![picture 51](https://i.imgur.com/dYZkJ4n.png)  
+![picture 52](https://i.imgur.com/yXf6rqc.png) 
+![picture 53](https://i.imgur.com/nJY585Z.png)  
+![picture 54](https://i.imgur.com/iZZF7h5.png)  
+![picture 55](https://i.imgur.com/IPYd62H.png)  
+![picture 56](https://i.imgur.com/6IEX5mh.png)  
+![picture 57](https://i.imgur.com/BB5Se0w.png)  
+![picture 58](https://i.imgur.com/xAHbqGt.png)  
+![picture 59](https://i.imgur.com/YNffttm.png)  
+![picture 60](https://i.imgur.com/CQtqM1s.png)  
+![picture 61](https://i.imgur.com/6Upv73n.png)  
+![picture 62](https://i.imgur.com/lvSBoY5.png)  
+![picture 63](https://i.imgur.com/c4C6Ssz.png)  
+![picture 64](https://i.imgur.com/D1G04V5.png)  
+![picture 65](https://i.imgur.com/A8bO1kQ.png)  
+![picture 66](https://i.imgur.com/wjYKpOg.png)  
+![picture 67](https://i.imgur.com/YAJolix.png)  
+![picture 68](https://i.imgur.com/YurBnoX.png)  
+![picture 69](https://i.imgur.com/KYcSRLA.png)  
+![picture 70](https://i.imgur.com/kA9HoIE.png)  
+![picture 71](https://i.imgur.com/uRJFU7Y.png)  
+![picture 72](https://i.imgur.com/XE1o3UQ.png)  
 
