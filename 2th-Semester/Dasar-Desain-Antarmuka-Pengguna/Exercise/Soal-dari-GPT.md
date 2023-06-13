@@ -236,9 +236,7 @@
     - a. Proses menjalankan fungsi JavaScript secara berurutan pada elemen-elemen terkait
     - b. Proses menangani peristiwa yang terjadi pada elemen yang merupakan anak atau cucu dari elemen tertentu
     - c. Proses menangani peristiwa yang terjadi pada elemen yang belum ada saat halaman web dimuat
-    - d. Proses menang
-
-ani peristiwa yang terjadi pada elemen HTML tertentu
+    - d. Proses menangani peristiwa yang terjadi pada elemen HTML tertentu
 
 41. Apa yang dimaksud dengan "CSS box model"?
     - a. Konsep yang menggambarkan bagaimana elemen HTML diatur dalam kotak berisi konten, padding, border, dan margin
