@@ -23,49 +23,49 @@
    - d. Menyematkan gambar dan video ke halaman web
 
 5. Apa yang dimaksud dengan "CSS selector"?
-   - a. Metode untuk memilih elemen HTML tertentu untuk diberi gaya
+   - ***a. Metode untuk memilih elemen HTML tertentu untuk diberi gaya*** ✔️
    - b. Fungsi JavaScript untuk memilih elemen HTML tertentu
    - c. Properti CSS untuk memilih elemen HTML tertentu
    - d. Metode untuk menyimpan dan memilih data dalam JavaScript
 
 6. Apa yang dimaksud dengan "box model" dalam CSS?
    - a. Model untuk membuat tampilan responsif pada halaman web
-   - b. Model untuk mengatur layout dan posisi elemen dalam halaman web
+   - ***b. Model untuk mengatur layout dan posisi elemen dalam halaman web*** ✔️
    - c. Model untuk menggabungkan beberapa file CSS menjadi satu file
    - d. Model untuk mengatur teks dan font dalam halaman web
 
 7. Apa kegunaan dari atribut `src` pada tag `<script>` dalam HTML?
    - a. Menyisipkan gambar di halaman web
    - b. Menyisipkan video di halaman web
-   - c. Menyisipkan script JavaScript eksternal
+   - ***c. Menyisipkan script JavaScript eksternal*** ✔️
    - d. Menyisipkan audio di halaman web
 
 8. Apa yang dimaksud dengan "event" dalam JavaScript?
    - a. Proses menampilkan halaman web dalam browser
-   - b. Tindakan yang terjadi di halaman web yang dapat ditangkap dan ditangani oleh JavaScript
+   - ***b. Tindakan yang terjadi di halaman web yang dapat ditangkap dan ditangani oleh JavaScript*** ✔️
    - c. Fungsi JavaScript untuk memanipulasi elemen HTML
    - d. Proses mengirim data dari halaman web ke server
 
 9. Apa perbedaan antara class dan ID dalam CSS?
    - a. Class digunakan untuk memilih elemen tertentu, sedangkan ID digunakan untuk memilih beberapa elemen sekaligus.
    - b. Class digunakan untuk memberikan gaya pada elemen HTML, sedangkan ID digunakan untuk mengatur interaksi JavaScript.
-   - c. Class dapat digunakan berulang kali dalam satu halaman, sedangkan ID harus unik dalam satu halaman.
+   - ***c. Class dapat digunakan berulang kali dalam satu halaman, sedangkan ID harus unik dalam satu halaman.*** ✔️
    - d. Class dan ID memiliki perbedaan yang sama dalam penggunaannya.
 
 10. Apa yang dimaksud dengan "responsive web design"?
-    - a. Desain halaman web yang dapat beradaptasi dengan berbagai perangkat dan ukuran layar
+    - ***a. Desain halaman web yang dapat beradaptasi dengan berbagai perangkat dan ukuran layar*** ✔️
     - b. Proses mempercepat waktu muat halaman web
     - c. Memilih dan memanipulasi elemen HTML menggunakan JavaScript
     - d. Mengatur tampilan dan gaya halaman web menggunakan CSS
 
 11. Apa fungsi utama dari framework Bootstrap?
     - a. Memudahkan pengembangan halaman web yang responsif dan mobile-friendly
-    - b. Membuat tampilan halaman web yang menarik secara visual
+    - ***b. Membuat tampilan halaman web yang menarik secara visual*** ✔️ (kayanya)
     - c. Mengelola data dan interaksi di halaman web
     - d. Mengoptimalkan performa halaman web untuk mesin pencari
 
 12. Apa yang dimaksud dengan "grid system" dalam Bootstrap?
-    - a. Sistem untuk membagi halaman web menjadi kolom dan baris yang responsif
+    - ***a. Sistem untuk membagi halaman web menjadi kolom dan baris yang responsif*** ✔️
     - b. Fungsi JavaScript untuk membuat elemen HTML bergerak secara animasi
     - c. Aturan CSS untuk mengatur tata letak dan posisi elemen dalam halaman web
     - d. Metode untuk menyembunyikan elemen HTML dari tampilan halaman web
@@ -73,41 +73,41 @@
 13. Apa peran dari library JQuery dalam pengembangan web?
     - a. Memudahkan manipulasi dan traversal elemen HTML, animasi, dan interaksi
     - b. Mengatur tampilan dan gaya halaman web menggunakan CSS
-    - c. Mengelola server dan database di halaman web
+    - ***c. Mengelola server dan database di halaman web*** ✔️
     - d. Membuat halaman web responsif dan mobile-friendly
 
 14. Bagaimana cara menghubungkan file CSS eksternal dengan dokumen HTML?
     - a. Dengan menggunakan tag `<style>`
-    - b. Dengan menggunakan tag `<link>`
+    - ***b. Dengan menggunakan tag `<link>`*** ✔️
     - c. Dengan menyisipkan CSS langsung di dalam tag `<body>`
     - d. Dengan menggunakan tag `<script>`
 
 15. Apa fungsi dari tag `<div>` dalam HTML?
     - a. Menampilkan gambar di halaman web
-    - b. Mengelompokkan dan mengatur elemen HTML
+    - ***b. Mengelompokkan dan mengatur elemen HTML*** ✔️
     - c. Menyematkan script JavaScript di halaman web
     - d. Menampilkan teks berformat di halaman web
 
 16. Apa yang dimaksud dengan "pseudo-class" dalam CSS?
     - a. Kelas yang diterapkan pada elemen HTML dengan menggunakan JavaScript
     - b. Kelas yang berlaku hanya pada elemen HTML yang memenuhi kondisi tertentu
-    - c. Properti CSS yang hanya berlaku pada elemen HTML tertentu
+    - ***c. Properti CSS yang hanya berlaku pada elemen HTML tertentu*** ✔️ (kayanya)
     - d. Metode untuk menyembunyikan elemen HTML dari tampilan halaman web
 
 17. Apa yang dimaksud dengan "DOM" dalam konteks web development?
     - a. Model untuk mengatur tata letak dan posisi elemen dalam halaman web
     - b. Fungsi JavaScript untuk memilih elemen HTML tertentu
-    - c. Representasi struktur dan konten halaman web yang dapat dimanipulasi menggunakan JavaScript
+    - ***c. Representasi struktur dan konten halaman web yang dapat dimanipulasi menggunakan JavaScript*** ✔️
     - d. Metode untuk memvalidasi input pengguna pada halaman web
 
 18. Bagaimana cara menambahkan komentar pada kode HTML?
     - a. Dengan menggunakan tag `<comment>`
-    - b. Dengan menggunakan tag `<!-- komentar -->`
+    - ***b. Dengan menggunakan tag `<!-- komentar -->`*** ✔️
     - c. Dengan menggunakan tag `<p>komentar</p>`
     - d. Dengan menggunakan tag `<script>komentar</script>`
 
 19. Apa perbedaan antara element selector (`element`) dan class selector (`.class`) dalam CSS?
-    - a. Element selector memilih semua elemen dengan tag yang sama, sedangkan class selector memilih elemen dengan kelas tertentu.
+    - ***a. Element selector memilih semua elemen dengan tag yang sama, sedangkan class selector memilih elemen dengan kelas tertentu.*** ✔️
     - b. Element selector memilih elemen dengan tag tertentu, sedangkan class selector memilih elemen dengan ID tertentu.
     - c. Element selector memilih elemen dengan ID tertentu, sedangkan class selector memilih elemen dengan tag tertentu.
     - d. Element selector memilih elemen dengan ID tertentu, sedangkan class selector memilih semua elemen dengan tag yang sama.
@@ -115,7 +115,7 @@
 20. Bagaimana cara menambahkan efek fade pada elemen HTML menggunakan JQuery?
     - a. Dengan menggunakan metode `.fade()` di JQuery
     - b. Dengan menggunakan metode `.fadeOut()` di JQuery
-    - c. Dengan menggunakan metode `.fadeIn()` di JQuery
+    - ***c. Dengan menggunakan metode `.fadeIn()` di JQuery*** ✔️ (kayanya)
     - d. Dengan menggunakan metode `.fadeToggle()` di JQuery
 
 21. Apa yang dimaksud dengan "media query" dalam CSS?
