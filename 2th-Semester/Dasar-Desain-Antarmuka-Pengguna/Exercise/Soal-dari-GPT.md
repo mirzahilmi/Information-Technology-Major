@@ -50,9 +50,7 @@
    - a. Class digunakan untuk memilih elemen tertentu, sedangkan ID digunakan untuk memilih beberapa elemen sekaligus.
    - b. Class digunakan untuk memberikan gaya pada elemen HTML, sedangkan ID digunakan untuk mengatur interaksi JavaScript.
    - c. Class dapat digunakan berulang kali dalam satu halaman, sedangkan ID harus unik dalam satu halaman.
-  
-
- - d. Class dan ID memiliki perbedaan yang sama dalam penggunaannya.
+   - d. Class dan ID memiliki perbedaan yang sama dalam penggunaannya.
 
 10. Apa yang dimaksud dengan "responsive web design"?
     - a. Desain halaman web yang dapat beradaptasi dengan berbagai perangkat dan ukuran layar
@@ -104,9 +102,7 @@
 
 18. Bagaimana cara menambahkan komentar pada kode HTML?
     - a. Dengan menggunakan tag `<comment>`
-    -
-
- b. Dengan menggunakan tag `<!-- komentar -->`
+    - b. Dengan menggunakan tag `<!-- komentar -->`
     - c. Dengan menggunakan tag `<p>komentar</p>`
     - d. Dengan menggunakan tag `<script>komentar</script>`
 
@@ -148,9 +144,7 @@
 
 25. Bagaimana cara membuat elemen HTML muncul ketika halaman web di-scroll menggunakan JQuery?
     - a. Dengan menggunakan metode `.scroll()` di JQuery
-    - b. Dengan menggunakan
-
- metode `.slideDown()` di JQuery
+    - b. Dengan menggunakan metode `.slideDown()` di JQuery
     - c. Dengan menggunakan metode `.fadeIn()` di JQuery
     - d. Dengan menggunakan metode `.show()` di JQuery
 
@@ -193,9 +187,7 @@
 32. Apa yang dimaksud dengan "media queries" dalam CSS?
     - a. Aturan CSS yang hanya berlaku untuk media cetak
     - b. Aturan CSS yang hanya berlaku untuk media web dan mobile
-    - c. Aturan CSS yang hanya berlaku pada
-
- elemen media seperti gambar dan video
+    - c. Aturan CSS yang hanya berlaku pada elemen media seperti gambar dan video
     - d. Aturan CSS yang berlaku berdasarkan ukuran layar dan perangkat pengguna
 
 33. Bagaimana cara mengatur background image pada elemen HTML menggunakan CSS?
@@ -287,9 +279,7 @@ ani peristiwa yang terjadi pada elemen HTML tertentu
 47. Apa yang dimaksud dengan "inline CSS" dalam HTML?
     - a. Aturan CSS yang didefinisikan di dalam tag HTML menggunakan atribut `style`
     - b. Aturan CSS yang disimpan di file eksternal dan dihubungkan dengan tag `<link>`
-    -
-
- c. Aturan CSS yang hanya berlaku pada elemen tertentu menggunakan atribut `class`
+    - c. Aturan CSS yang hanya berlaku pada elemen tertentu menggunakan atribut `class`
     - d. Aturan CSS yang hanya berlaku pada elemen tertentu menggunakan atribut `id`
 
 48. Bagaimana cara menghubungkan file CSS eksternal dengan halaman HTML?
