@@ -28,7 +28,13 @@ Welcome to the Technology Information Major Repository! This repository contains
 
 ## [Semester 2](./2nd-Semester/)
 
-<!-- Repeat the structure for Semester 2 -->
+1. [Bahasa Indonesia](#)
+2. [Dasar Desain Antarmuka Pengguna](#)
+3. [Dasar Pengembangan Sistem informasi](#)
+4. [Kewarganegaraan](#)
+5. [Pemrograman Lanjut](#)
+6. [Pengantar Sistem Operasi](#)
+7. [Sistem Basis Data](#)
 
 ## Semester 3
 
